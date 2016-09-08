@@ -15,6 +15,10 @@ If you notice anything that looks strange or if this repo is missing
 any scheme updates, please feel free to open an issue or submit a pull
 request.
 
+** Screenshots
+
+There are generated screenshots in [[samples/README.org][the samples directory]].
+
 ** evil-mode
 
 =evil-mode= doesn't provide a way for themes to set the cursor color,
